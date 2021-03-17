@@ -1,0 +1,8 @@
+Origin: Razoios1n Repo’s 
+Label: my  repo Razoios1n
+Suite: stable
+Version: 1.0
+Codename: cydia-ios
+Architectures: iphoneos-arm
+Components: main
+Description:  The name that shows on Cydia
